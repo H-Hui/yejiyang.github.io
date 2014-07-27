@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+ 
+ <title>Jiyang Ye</title>
+ <link href="http://yejiyang.github.io/atom.xml" rel="self"/>
+ <link href="http://yejiyang.github.io"/>
+ <updated>2014-07-26T23:48:41-05:00</updated>
+ <id>http://yejiyang.github.io</id>
+ <author>
+   <name>Jiyang Ye</name>
+ </author>
+
+ 
+ <entry>
+   <title>Day one of Jekyll on Github</title>
+   <link href="http://yejiyang.github.io/2014/07/26/first-day-of-jekyll.html"/>
+   <updated>2014-07-26T00:00:00-05:00</updated>
+   <id>urn:uuid:866af2a0-3fc7-4ced-839d-1839115b7176</id>
+   <content type="html">&lt;p&gt;&lt;img src=&quot;/media/files/2014/07/26/first-day-of-jekyll.png&quot; alt=&quot;example-jekyll&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;first day of living with Jekyll!
+Looks good!&lt;/p&gt;
+
+&lt;hr /&gt;
+</content>
+ </entry>
+ 
+ 
+</feed>

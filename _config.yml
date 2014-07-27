@@ -1,0 +1,38 @@
+markdown: rdiscount
+pygments: true
+permalink: /:year/:month/:day/:title.html
+name: "Jiyang Ye"
+markdown: rdiscount
+
+author: "Jiyang Ye"
+atom-baseurl: "http://yejiyang.github.io"
+disqus: "gopherwood"
+
+navigations:
+  - title: About
+    class: fa fa-user
+    href: /about.html
+  - title: Curriculum Vitae
+#    class: fa fa-graduation-cap
+    class: fa fa-user
+    href: /CV.html
+  - title: Research
+#    class: fa fa-paw
+    class: fa fa-user
+    href: /Research.html
+  - title: Archive
+    class: fa fa-list-ul
+    href: /archive.html
+  - title: Tags
+    class: fa fa-tags
+    href: /tags.html
+  - title: Gallery
+    class: fa fa-film
+    href: http://yejiyang.github.io
+  - title: Usful links
+    class: fa fa-link
+    href: /links.html
+  - title: Subscribe
+    class: fa fa-rss
+    href: /atom.xml
+
