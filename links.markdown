@@ -12,7 +12,7 @@ layout: page
 	
 	4.	Kaj Johnson [Crustal Deformation at Indiana University](http://pages.iu.edu/~kajjohns/)
 	
-	5.	
+	5.	Thorsten Becker [Geodynamics at Univ. of Southern California](http://geodynamics.usc.edu/~becker/main.html)
 
 + Structural Geology (including Stress Analysis)
 
