@@ -3,6 +3,17 @@ title: links
 layout: page
 ---
 
++ Geodynamics, Tectonics
+	1.	Paul Segall [Crustal Deformation and Fault Mechanics](https://pangea.stanford.edu/research/CDFM/paul/)
+	
+	2.	Brendan Meade [Crustal Dynamics at Harvard University](http://summit.fas.harvard.edu/)
+	
+	3.	Jack Loveless [Structural Geology and Tectonics at Smith College ](http://www.science.smith.edu/~jloveless/Home.html)
+	
+	4.	Kaj Johnson [Crustal Deformation at Indiana University](http://pages.iu.edu/~kajjohns/)
+	
+	5.	
+
 + Structural Geology (including Stress Analysis)
 
 	1.	[Structural Geology by Stephen J. Martel](http://www.soest.hawaii.edu/martel/Courses/GG303/)
