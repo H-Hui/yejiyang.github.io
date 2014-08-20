@@ -13,6 +13,8 @@ layout: page
 	4.	Kaj Johnson [Crustal Deformation at Indiana University](http://pages.iu.edu/~kajjohns/)
 	
 	5.	Thorsten Becker [Geodynamics at Univ. of Southern California](http://geodynamics.usc.edu/~becker/main.html)
+	
+	6.	[Bridget Smith-Konter](http://www.soest.hawaii.edu/GG/FACULTY/smithkonter/index.html), [3-D Fourier Elastic and Viscoelastic Deformation Modeling](http://topex.ucsd.edu/body_force/)
 
 + Structural Geology (including Stress Analysis)
 
