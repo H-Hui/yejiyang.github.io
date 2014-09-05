@@ -41,7 +41,7 @@ layout: page
 
 	1.	Rich Pawlowicz's M_Map, [mapping toolbox](http://www.eos.ubc.ca/~rich/map.html)
 
-	2.  	[Scientific Programming in Matlab by Paul Wessel](http://www.soest.hawaii.edu/pwessel/courses/gg250.html)
+	2.  	Scientific Programming in Matlab by [Paul Wessel](http://www.soest.hawaii.edu/pwessel/courses/gg250.html)
 	
 	3.  	An Intro to FEM at [Univ. of Colorado](http://www.colorado.edu/engineering/cas/courses.d/IFEM.d/)
 	
