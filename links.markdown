@@ -1,26 +1,20 @@
----
-title: links
-layout: page
----
+# useful links
 
-<<<<<<< HEAD
-##  Structural Geology (including Stress Analysis)
 =======
-+ Geodynamics, Tectonics
-	1.	Paul Segall [Crustal Deformation and Fault Mechanics](https://pangea.stanford.edu/research/CDFM/paul/)
+## Geodynamics, Tectonics
+	1. Paul Segall [Crustal Deformation and Fault Mechanics](https://pangea.stanford.edu/research/CDFM/paul/)
 	
-	2.	Brendan Meade [Crustal Dynamics at Harvard University](http://summit.fas.harvard.edu/)
+	2. Brendan Meade [Crustal Dynamics at Harvard University](http://summit.fas.harvard.edu/)
 	
-	3.	Jack Loveless [Structural Geology and Tectonics at Smith College ](http://www.science.smith.edu/~jloveless/Home.html)
+	3. Jack Loveless [Structural Geology and Tectonics at Smith College ](http://www.science.smith.edu/~jloveless/Home.html)
 	
-	4.	Kaj Johnson [Crustal Deformation at Indiana University](http://pages.iu.edu/~kajjohns/)
+	4. Kaj Johnson [Crustal Deformation at Indiana University](http://pages.iu.edu/~kajjohns/)
 	
-	5.	Thorsten Becker [Geodynamics at Univ. of Southern California](http://geodynamics.usc.edu/~becker/main.html)
+	5. Thorsten Becker [Geodynamics at Univ. of Southern California](http://geodynamics.usc.edu/~becker/main.html)
 	
-	6.	[Bridget Smith-Konter](http://www.soest.hawaii.edu/GG/FACULTY/smithkonter/index.html), [3-D Fourier Elastic and Viscoelastic Deformation Modeling](http://topex.ucsd.edu/body_force/)
+	6. [Bridget Smith-Konter](http://www.soest.hawaii.edu/GG/FACULTY/smithkonter/index.html), [3-D Fourier Elastic and Viscoelastic Deformation Modeling](http://topex.ucsd.edu/body_force/)
 
-+ Structural Geology (including Stress Analysis)
->>>>>>> 1767758f9cd5741d4795117ca7464af6b40fc8ab
+## Structural Geology (including Stress Analysis)
 
 	1.  [Structural Geology by Stephen J. Martel](http://www.soest.hawaii.edu/martel/Courses/GG303/)
 	
@@ -47,19 +41,16 @@ layout: page
 
 	1.  Rich Pawlowicz's M_Map, [mapping toolbox](http://www.eos.ubc.ca/~rich/map.html)
 
-	2.	Scientific Programming in Matlab by [Paul Wessel](http://www.soest.hawaii.edu/pwessel/courses/gg250.html)
+	2.  Scientific Programming in Matlab by [Paul Wessel](http://www.soest.hawaii.edu/pwessel/courses/gg250.html)
 	
-	3.	An Intro to FEM at [Univ. of Colorado](http://www.colorado.edu/engineering/cas/courses.d/IFEM.d/)
+	3.  An Intro to FEM at [Univ. of Colorado](http://www.colorado.edu/engineering/cas/courses.d/IFEM.d/)
 	
-<<<<<<< HEAD
 	4.  MATH 676: Finite element methods in scientific computing, [deal.ii](http://www.math.tamu.edu/~bangerth/videos.html)
-=======
-	4.	Frederik Simons at [princeton](http://geoweb.princeton.edu/people/simons/software.html)
+	5.  Frederik Simons at [princeton](http://geoweb.princeton.edu/people/simons/software.html)
 
-+ Fortran
+## Fortran
 
-	1.	GNU fortran [online documents,](https://gcc.gnu.org/onlinedocs/gfortran/)
->>>>>>> 1767758f9cd5741d4795117ca7464af6b40fc8ab
+	1.  GNU fortran [online documents,](https://gcc.gnu.org/onlinedocs/gfortran/)
 	
 	
 ## Github & Jekyll   
