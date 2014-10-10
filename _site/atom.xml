@@ -4,12 +4,38 @@
  <title>Jiyang Ye</title>
  <link href="http://yejiyang.github.io/atom.xml" rel="self"/>
  <link href="http://yejiyang.github.io"/>
- <updated>2014-07-26T23:54:56-05:00</updated>
+ <updated>2014-07-29T13:07:43-05:00</updated>
  <id>http://yejiyang.github.io</id>
  <author>
    <name>Jiyang Ye</name>
  </author>
 
+ 
+ <entry>
+   <title>Calculation_of_principal_strain_stress</title>
+   <link href="http://yejiyang.github.io/2014/07/29/calculation_of_principal_strain_stress.html"/>
+   <updated>2014-07-29T00:00:00-05:00</updated>
+   <id>http://yejiyang.github.io/2014/07/29/calculation_of_principal_strain_stress</id>
+   <content type="html">&lt;h1&gt;calculation of principal strain/stress&lt;/h1&gt;
+
+&lt;p&gt;3 ways&lt;/p&gt;
+
+&lt;h2&gt;1. direct equation&lt;/h2&gt;
+
+&lt;h2&gt;2. strain or stress transformations&lt;/h2&gt;
+
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&quot;http://www.continuummechanics.org/cm/stressxforms.html&quot;&gt;stress transformations&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;p&gt;and &lt;a href=&quot;http://www.continuummechanics.org/cm/principalstrain.html&quot;&gt;principal strains&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;see how the they determine the principal direction&lt;/p&gt;
+
+&lt;h2&gt;3. eigenvalues and eigenvectors&lt;/h2&gt;&lt;/li&gt;
+&lt;li&gt;&lt;p&gt;&lt;a href=&quot;http://personal.stevens.edu/~shassiot/ModelingAndSimulation/Ch6EigenvalueAnalysis.pdf&quot;&gt;a good example&lt;/a&gt;&lt;/p&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+</content>
+ </entry>
  
  <entry>
    <title>Day one of Jekyll on Github</title>
