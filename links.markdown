@@ -23,6 +23,7 @@
 
 3.  [A good place to learn the Continuum Mechanics](http://www.continuummechanics.org/cm/principalstress.html)
 	
+4. [Fundamentals of Structural Geology, by David Pollard](https://pangea.stanford.edu/projects/structural_geology/chapters/index.html)
 
 ## GMT
 
